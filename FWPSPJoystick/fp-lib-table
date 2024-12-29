@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "pspjoy")(type "KiCad")(uri "${KIPRJMOD}/libs/PSPJoystick/pspjoy.pretty")(options "")(descr ""))
+  (lib (name "CUI_TS21")(type "KiCad")(uri "${KIPRJMOD}/libs/CUI_TS21.pretty")(options "")(descr ""))
+  (lib (name "ICM-42670-P")(type "KiCad")(uri "${KIPRJMOD}/libs/ICM-42670-P.pretty")(options "")(descr ""))
+)
