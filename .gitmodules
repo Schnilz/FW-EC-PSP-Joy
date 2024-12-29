@@ -1,0 +1,6 @@
+[submodule "firmware/drivers/icm42670p"]
+	path = firmware/drivers/icm42670p
+	url = https://github.com/tdk-invn-oss/motion.mcu.icm42670p.driver
+[submodule "firmware/drivers/i2c"]
+	path = firmware/drivers/i2c
+	url = https://github.com/ADBeta/CH32V003_lib_i2c.git
